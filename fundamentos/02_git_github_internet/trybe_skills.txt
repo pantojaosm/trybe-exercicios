@@ -1,0 +1,6 @@
+Aprenderei na Trybe...
+
+- Unix
+- Bash
+- Git
+
