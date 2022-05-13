@@ -1,6 +1,6 @@
-Aprenderei na Trybe...
-
+Aprendererei na Trybe...
 - Unix
 - Bash
 - Git
-
+- HTML
+- CSS
