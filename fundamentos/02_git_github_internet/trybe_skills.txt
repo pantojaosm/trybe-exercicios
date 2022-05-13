@@ -4,3 +4,4 @@ Aprenderei na Trybe...
 - Bash
 - Git
 
+- Javascript
