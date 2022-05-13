@@ -1,7 +1,9 @@
-Aprenderei na Trybe...
-
+Aprendererei na Trybe...
 - Unix
 - Bash
 - Git
-
+trybe_skills_updates
+- HTML
+- CSS
 - Javascript
+main
