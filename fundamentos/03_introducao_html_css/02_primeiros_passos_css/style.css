@@ -1,0 +1,18 @@
+ h1 {
+    width: 100px; color: rgb(23, 56, 23);
+    }
+body {
+        background-color: aqua;
+        }
+        #intro {
+            background-color: bisque;
+        }
+        #des {
+            color: brown;
+        }
+        .list {
+            background-color: darkcyan;
+            color: azure;
+        }
+
+        
