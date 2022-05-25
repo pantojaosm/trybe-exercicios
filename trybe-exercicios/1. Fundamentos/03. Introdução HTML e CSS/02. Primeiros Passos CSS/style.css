@@ -1,0 +1,53 @@
+    h1 {
+        background-color: darkcyan;
+        color: azure;
+        font-weight: bold;
+        font-style: italic;
+        line-height: 40px;
+        text-align: center;
+        text-decoration: underline;
+        }
+
+    body {
+        background-color: aqua;
+        font-family: 'Helvetica Neue', sans-serif;
+        font-size: 18px;
+        }
+
+    #intro {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align:left;
+        }
+    
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: left;
+    }
+    
+    #des {
+        color: brown;
+        font-family: 'Helvetica Neue', sans-serif;
+        }
+    
+    h2 {
+        background-color: darkcyan;
+        color: azure;
+        font-family: 'Helvetica Neue', sans-serif;
+        font-size: 2em;
+        font-weight: bold;
+        font-style: italic;
+        line-height: 40px;
+        text-align: left;
+        text-decoration: underline;
+    }
+
+    .list {
+        background-color: darkcyan;
+        color: azure;
+        font-family: 'Helvetica Neue', sans-serif;
+        font-weight: bold;
+        font-style: italic;
+        line-height: 40px;
+        text-align: left;
+        text-decoration: dashed;
+        }
